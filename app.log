@@ -1,0 +1,5 @@
+2025-06-04 20:49:05,084 | INFO | fastapi-app | User login attempt
+2025-06-04 20:49:05,431 | INFO | fastapi-app | Your message here
+2025-06-04 20:49:53,562 | INFO | fastapi-app | User login attempt
+2025-06-04 20:49:54,477 | INFO | fastapi-app | Your message here
+2025-06-04 20:50:05,325 | INFO | fastapi-app | Fetching all books for user 1
