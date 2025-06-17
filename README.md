@@ -12,8 +12,6 @@ This repository contains a FastAPI application that implements **CRUD operations
 - 🧪 Input validation using Pydantic models
 - 🛡️ Security features using OAuth2 and JWT tokens
 
----
-
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
