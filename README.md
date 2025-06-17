@@ -14,28 +14,37 @@ This repository contains a FastAPI application that implements **CRUD operations
 
 ---
 
----
-
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
 
+```
 git clone https://github.com/18Prashanth/FastAPI_CRUD_Operation.git
+
 cd FastAPI_CRUD_Operation
+```
 
 ### 2. Create and Activate Virtual Environment
 
+```
 python -m venv venv
+
 source venv/bin/activate # On Windows: venv\Scripts\activate
+```
 
 ### 3. Install Dependencies
 
+```
 pip install -r requirements.txt
+```
 
 ### 4. Set Environment Variables
 
+```
 DATABASE_URL=postgresql://username:password@localhost/dbname
+
 SECRET_KEY=your_secret_key
+```
 
 ### 5. Run the Application
 
